@@ -1,0 +1,11 @@
+main .faq .faq-question-title {
+    cursor: pointer;
+}
+
+main .faq .faq-question-answer {
+    display: none;
+}
+
+main .faq .faq-question-answer.active {
+    display: block;
+}
